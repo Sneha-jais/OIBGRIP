@@ -2,7 +2,7 @@
 
 Oasis Infobyte Internship Tasks
 <br>
-In this repository I am uploading all the task of level-2 of Web Developement and Desigining internship of Oasis Infobyte.
+In this repository I have uploaded all the task of level-2 of Web Developement and Desigining internship of Oasis Infobyte.
 <br>
 The given task are as follows:
 <br>
